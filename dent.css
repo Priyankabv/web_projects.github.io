@@ -1,0 +1,29 @@
+USN{
+	background-color:red;
+    display:block;
+}
+
+NAME{
+	background-color:green;
+	display:block;
+}
+
+COLLEGE{
+	background-color:blue;
+	display:block;
+}
+
+BRANCH{
+	background-color:pink;
+	display:block;
+}
+	
+YEAR{
+	background-color:orange;
+	display:block;
+}
+
+E-MAIL{
+	background-color:gray;
+	display:block;
+}
